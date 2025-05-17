@@ -1,2 +1,2 @@
 # stickernation
-this is a css-html website page
+this is a css-html sticker buying website page
